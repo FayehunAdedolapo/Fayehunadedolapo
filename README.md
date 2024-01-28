@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I am Fayehun Adedolapo
+- I am a Fashion Designer venturing into Tech
+- I am currently learning Tablue, SQL, excel
+- I am looking to collaborate on data colection, processing and analysing
+- You can reach me on [linkedin](https://www.linkedin.com/in/fayehun-adedolapo-0a03962b0/)
+- Pronoun;She
+- funfact; I love learning new things
+
+
 
 <!--
 **FayehunAdedolapo/Fayehunadedolapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
