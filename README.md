@@ -4,12 +4,13 @@
 - I am looking to collaborate on data colection, processing and analysing
 - You can reach me on [linkedin](https://www.linkedin.com/in/fayehun-adedolapo-0a03962b0/)
 - Pronoun;She
-- funfact; I love learning new things
-
-
-
-<!--
-**FayehunAdedolapo/Fayehunadedolapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- funfact; I love solving problems and learning new things
+-
+-
+-
+-
+-
+- **FayehunAdedolapo/Fayehunadedolapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
